@@ -1,7 +1,8 @@
 # Implementation of Multiple Tic Tac Toe Agents in a Tournament setting
 ## Introduction:
 Tic Tac Toe is a two player game which is played in any square grid. Tic Tac Toe is a Zero sum game where win of player1 is a loss of player2. Usually it is playing putting either X or O in the grid. If Player1 gets key X then player2 gets key O. If any player achieves their key in any all the cells of any row or column or diagonal then that player wins.
-![Tic Tac Toe](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wayfair.com%2Ffurniture%2Fpdx%2Fbreakwater-bay-schumaker-wood-large-spring-tic-tac-toe-game-w000931690.html&psig=AOvVaw2i4TVEnyLese5TECkpBXfe&ust=1607664837171000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiLsq7Ywu0CFQAAAAAdAAAAABAE)
+
+! [Tic Tac Toe] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wayfair.com%2Ffurniture%2Fpdx%2Fbreakwater-bay-schumaker-wood-large-spring-tic-tac-toe-game-w000931690.html&psig=AOvVaw2i4TVEnyLese5TECkpBXfe&ust=1607664837171000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiLsq7Ywu0CFQAAAAAdAAAAABAE)
  
 ## Algorithms used:
 We have created four Agents to play against each other.
